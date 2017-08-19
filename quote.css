@@ -1,0 +1,47 @@
+body{
+  background-color: black;
+}
+
+#placeholder{
+  width: 60%;
+  margin: auto;
+  padding-top: 50px;
+}
+
+h1{
+  float: left;
+  color: #F3FCE4;
+  padding: 40px 0;
+}
+
+button{
+  float: right;
+  margin-top: 50px;
+  border: 2px solid #F3FCE4;
+  background-color: transparent;
+  color: #F3FCE4;
+  border-radius: 6px;
+}
+
+button:hover{
+  background-color: #F3FCE4;
+  color: black;
+  border-radius: 6px;
+}
+
+#quoteBlock{
+  clear: both;
+  padding: 20px;
+  background-color: #F3FCE4;
+  border-radius: 5px;
+}
+
+#author{
+  text-align: right;
+}
+
+footer{
+  margin-top: 40px;
+  text-align: center;
+  color: #F3FCE4;
+}
